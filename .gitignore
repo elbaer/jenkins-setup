@@ -1,0 +1,5 @@
+#exclude everything in jenkins-home
+jenkins-home/*
+
+#except for the folder itself
+!jenkins-home/.gitkeep
